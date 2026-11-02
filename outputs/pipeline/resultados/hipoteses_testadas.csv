@@ -1,0 +1,4 @@
+tipo_teste,hipotese,n,correlacao_pearson,p_valor,status,crescimento_mensal_estimado_pct,r2
+Correlação de Pearson,H1: variações mensais nas contestações estão associadas às variações na quantidade de transações,51,0.37786947867601023,0.006260915683700536,Testada; associação não implica causalidade,NA,NA
+Tendência log-linear,H2: a quantidade mensal de PIX contestados apresenta tendência temporal positiva,52,NA,4.665989664679661e-34,Tendência descritiva; não demonstra causalidade,6.874224042960031,0.9493810675621079
+Tendência log-linear,H3: a quantidade mensal total de transações PIX apresenta tendência temporal positiva,52,NA,1.1726829077676738e-31,Tendência descritiva; não demonstra causalidade,3.435624096048895,0.9368734675840489

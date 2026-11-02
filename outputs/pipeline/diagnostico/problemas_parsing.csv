@@ -1,0 +1,5 @@
+base,row,col,expected,actual,file
+transacoes,429057,11,a double,"4081960,03 ,81161
+202502,PF,PF,NORDESTE,CENTRO-OESTE,até 19 anos,até 19 anos,QRDN,P2P,Pix,131640",/home/rowanlu/projects/topicos_ia/henriquerowan_pix_fraudes/estatisticas_transacoes_pix.csv
+transacoes,429057,12,a double,"93"",1588",/home/rowanlu/projects/topicos_ia/henriquerowan_pix_fraudes/estatisticas_transacoes_pix.csv
+transacoes,429057,13,12 columns,13 columns,/home/rowanlu/projects/topicos_ia/henriquerowan_pix_fraudes/estatisticas_transacoes_pix.csv

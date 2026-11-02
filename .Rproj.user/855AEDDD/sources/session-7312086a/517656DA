@@ -1,0 +1,26 @@
+{
+    "id": "517656DA",
+    "path": "~/projects/topicos_ia/henriquerowan_pix_fraudes/scripts/01_importacao_diagnostico.R",
+    "project_path": "scripts/01_importacao_diagnostico.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1792236978491.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,89",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1792236742,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1792236742,
+    "read_only": false,
+    "read_only_alternatives": []
+}

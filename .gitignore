@@ -1,0 +1,11 @@
+data/amostras/*.csv
+outputs/diagnosticos/*.csv
+outputs/tabelas/*.csv
+outputs/figuras/*
+data/brutos/
+
+# Bases brutas na raiz do projeto
+/*.csv
+
+# Apresentações PowerPoint geradas ou usadas no projeto
+/*.pptx
